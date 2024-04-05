@@ -1,4 +1,4 @@
-# Documentation of App Development and API Deployment in Docker
+# Documentation of App Development and API Deployment in Docker using FastAPI
 
 **Steps to deploy:**
 *still on making progress
