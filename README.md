@@ -1,4 +1,4 @@
-# Documentation of App Deployment in Azure
+# Documentation of App Development and API Deployment in Docker
 
 **Steps to deploy:**
 *still on making progress
